@@ -11,6 +11,8 @@ npm run dev
 
 打开 `http://localhost:3000`。
 
+公网地址（GitHub Pages）：https://coconut4210.github.io/job-tracker/
+
 ## 验证
 
 ```powershell
